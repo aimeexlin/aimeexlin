@@ -1,6 +1,4 @@
-### Hey there 👋
-
-I'm a final year biomedical engineering student graduating in November 2022
+### 👩🏻‍💻
 
 <!--
 **aimeexlin/aimeexlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
